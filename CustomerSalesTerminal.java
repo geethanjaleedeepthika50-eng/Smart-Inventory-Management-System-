@@ -61,8 +61,8 @@ public class CustomerSalesTerminal extends JFrame {
 
     // Config 2: Notify.lk Credentials (Sri Lankan Gateway)
     // FILL THESE THREE FIELDS TO DELIVER REAL MESSAGES
-    private static final String NOTIFY_LK_API_KEY = "5xSqRaplJjG2OsTzmOU9";
-    private static final String NOTIFY_LK_USER_ID = "32088";
+    private static final String NOTIFY_LK_API_KEY = "";
+    private static final String NOTIFY_LK_USER_ID = "";
     private static final String NOTIFY_LK_SENDER_ID = "NotifyDEMO"; 
 
     private static boolean isUsingCloudDB = false;
